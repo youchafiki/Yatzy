@@ -1,0 +1,1 @@
+Ce code source est basé sur les Streams de Java8 pour le Yatzy.
